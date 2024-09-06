@@ -1,0 +1,24 @@
+&header
+%nprocshared=1
+%chk=geom.chk
+&end
+
+&route
+#p M062X/cc-pVDZ EmpiricalDispersion=GD3 nosymm charge
+&end
+
+&externchg
+&end
+
+&basis
+cc-pVDZ
+&end
+
+&bsse
+mon1 = @4481-4513    
+mon2 = @1-4480,4514-29936 
+&end
+
+&chgspin
+0,1,1,1,-1,1
+&end

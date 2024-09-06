@@ -1,0 +1,7 @@
+&main
+tpl = gaussian
+top = system.parm7
+traj = 1f.nc
+qmmask = @4481-4513, 1405-1410, 3433-3450, 1472-1476
+geoms = 1 1 1
+&end

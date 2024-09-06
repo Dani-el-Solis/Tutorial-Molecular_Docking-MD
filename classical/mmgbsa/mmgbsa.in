@@ -1,0 +1,3 @@
+#!/bin/bash
+
+MMPBSA.py -O -i mmgbsa.in -o FINAL.dat -do FINAL_DECOMP.dat -sp system.parm7 -cp complex.parm7 -rp receptor.parm7 -lp lig.parm7 -y new.crd &

@@ -1,0 +1,620 @@
+MODEL 1
+REMARK VINA RESULT:      -6.5      0.000      0.000
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       6.839   0.343  52.275  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       6.345   1.484  51.626  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       5.962   2.613  52.358  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       6.959   0.319  53.663  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       6.563   1.442  54.371  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       6.062   2.587  53.741  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       5.761   3.620  54.657  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       6.626   1.676  55.840  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       5.724   2.914  55.956  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       4.643   4.511  54.313  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       5.127   5.967  54.108  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       5.343   6.344  52.694  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       4.161   6.079  51.872  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       5.701   7.762  52.606  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -6.2      3.261      6.341
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       6.095   2.461  52.076  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       6.534   1.159  51.797  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       6.897   0.290  52.833  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       6.009   2.909  53.392  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       6.384   2.038  54.403  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       6.831   0.737  54.143  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.120   0.019  55.326  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       6.349   2.262  55.874  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       7.212   1.083  56.348  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       8.199  -0.976  55.254  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       8.450  -1.634  56.632  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       9.075  -2.974  56.564  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       8.078  -4.044  56.616  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       9.864  -3.092  55.335  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.2      1.048      2.525
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       7.140   0.037  54.714  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       6.605   1.064  55.505  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       6.034   2.197  54.915  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       7.106   0.128  53.324  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       6.548   1.263  52.759  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       6.015   2.301  53.533  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       5.466   3.337  52.743  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       6.362   1.580  51.316  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       6.043   3.080  51.406  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       5.540   4.700  53.286  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       5.155   5.753  52.219  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       4.773   7.071  52.773  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       4.541   7.009  54.217  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       5.818   8.055  52.480  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.1      5.663      7.789
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       9.768  -6.086  56.978  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1      10.571  -5.109  57.584  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1      10.024  -3.888  57.994  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       8.408  -5.856  56.779  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       7.887  -4.636  57.180  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       8.675  -3.647  57.781  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.925  -2.505  58.142  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       6.476  -4.168  57.112  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       6.677  -2.666  57.367  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       8.617  -1.209  58.091  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       8.786  -0.719  56.633  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       8.327   0.669  56.400  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       6.981   0.709  55.827  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       8.353   1.419  57.658  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.1      2.598      5.173
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       6.459   1.175  51.802  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       6.827   0.051  52.556  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       6.954   0.135  53.948  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       6.210   2.393  52.429  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       6.352   2.460  53.806  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       6.725   1.350  54.574  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       6.769   1.641  55.957  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       6.110   3.622  54.704  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       6.790   3.119  55.987  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       7.760   0.912  56.760  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       7.076   0.032  57.835  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       5.655  -0.275  57.557  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       5.469  -1.669  57.151  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       4.844   0.009  58.743  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.1      2.319      5.481
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       5.094   4.392  53.648  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       5.453   3.979  54.939  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       6.111   2.761  55.143  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       5.391   3.593  52.545  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       6.032   2.385  52.769  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       6.392   1.954  54.051  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.068   0.713  54.034  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       6.486   1.382  51.766  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       6.760   0.184  52.688  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       6.872  -0.169  55.193  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       8.219  -0.510  55.875  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       8.416   0.135  57.192  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       9.162   1.390  57.080  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       7.117   0.384  57.823  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.0      8.784      9.819
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       9.831  -6.286  56.594  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       8.592  -5.961  56.022  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       7.777  -4.978  56.592  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1      10.270  -5.627  57.741  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       9.443  -4.665  58.298  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       8.201  -4.333  57.744  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.551  -3.300  58.456  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       9.698  -3.805  59.487  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       8.281  -3.269  59.742  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       6.082  -3.334  58.487  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       5.534  -2.763  59.817  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       4.660  -3.694  60.565  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       5.333  -4.246  61.742  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       3.433  -3.004  60.975  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.0      6.158      8.255
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       9.748  -6.353  56.723  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       8.561  -6.030  56.050  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       7.753  -4.976  56.491  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1      10.143  -5.624  57.843  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       9.323  -4.592  58.272  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       8.132  -4.260  57.616  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.482  -3.152  58.205  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       9.540  -3.653  59.406  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       8.133  -3.048  59.529  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       6.014  -3.130  58.144  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       5.502  -1.919  57.328  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       6.505  -0.848  57.133  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       6.529  -0.369  55.750  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       6.224   0.268  58.039  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -5.9      7.103      9.784
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       9.289  -1.911  55.104  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       8.568  -1.167  56.048  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       8.367  -1.658  57.343  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       9.822  -3.153  55.444  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       9.602  -3.628  56.727  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       8.878  -2.902  57.680  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       8.815  -3.563  58.928  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1      10.092  -4.894  57.339  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       9.205  -4.949  58.593  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       7.604  -3.353  59.733  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       7.892  -3.535  61.242  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       6.730  -3.999  62.033  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       5.478  -3.875  61.286  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       6.930  -5.393  62.439  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:      -5.9      5.112      7.257
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       9.976  -5.232  58.289  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       9.333  -4.406  59.223  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       8.815  -3.163  58.840  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1      10.104  -4.828  56.962  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       9.595  -3.589  56.605  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       8.957  -2.749  57.525  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       8.485  -1.557  56.929  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       9.575  -2.953  55.259  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       9.220  -1.509  55.648  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       8.470  -0.352  57.771  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       8.785   0.917  56.944  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       7.630   1.820  56.748  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       8.052   3.197  56.487  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       6.802   1.337  55.639  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:      -5.9      1.608      3.172
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       8.498   1.414  57.425  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       8.173   2.737  57.092  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       7.504   3.030  55.898  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       8.155   0.369  56.571  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       7.505   0.680  55.387  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       7.178   1.995  55.036  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       6.484   2.069  53.807  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       7.005  -0.249  54.337  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       6.742   0.747  53.197  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       6.703   3.270  52.989  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       5.397   4.086  52.828  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       5.606   5.499  52.439  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       5.984   5.626  51.030  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       4.387   6.271  52.696  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:      -5.9      4.353      6.111
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       9.225  -4.834  56.317  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       9.684  -3.610  55.810  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       8.928  -2.443  55.964  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       8.006  -4.905  56.988  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       7.265  -3.741  57.120  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       7.705  -2.512  56.614  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       6.808  -1.458  56.900  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       5.964  -3.550  57.819  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       5.566  -2.169  57.274  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       6.721  -0.371  55.915  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       7.496   0.881  56.390  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       7.017   2.153  55.803  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       5.631   2.438  56.177  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       7.882   3.255  56.231  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:      -5.8      1.617      5.073
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       5.506   6.713  51.959  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       5.351   6.753  53.352  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       5.535   5.601  54.126  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       5.851   5.522  51.323  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       6.018   4.389  52.105  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       5.860   4.410  53.496  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       6.117   3.152  54.087  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       6.418   3.022  51.674  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       6.057   2.224  52.937  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       5.354   2.816  55.297  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       6.031   1.672  56.089  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       7.510   1.692  56.045  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       8.073   2.617  57.029  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       8.033   0.343  56.277  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 14
+REMARK VINA RESULT:      -5.8      7.471      9.912
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       5.185  -3.920  61.402  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       6.570  -3.987  61.614  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       7.464  -3.457  60.676  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       4.678  -3.319  60.252  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       5.578  -2.811  59.329  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       6.964  -2.875  59.521  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.683  -2.260  58.472  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       5.290  -2.097  58.054  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       6.677  -2.152  57.394  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       8.999  -2.826  58.145  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       9.001  -3.469  56.737  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       9.570  -4.834  56.691  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       9.927  -5.322  58.024  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       8.614  -5.752  56.067  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 15
+REMARK VINA RESULT:      -5.8      6.052      8.185
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       4.979  -0.546  58.272  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       5.197  -1.778  57.639  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       6.430  -2.068  57.043  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       5.992   0.409  58.320  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       7.201   0.110  57.714  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       7.434  -1.112  57.071  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       8.749  -1.212  56.561  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       8.438   0.938  57.660  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       9.217   0.190  56.567  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       8.929  -2.004  55.337  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       9.886  -3.198  55.574  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       9.475  -4.099  56.673  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       8.709  -5.245  56.180  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1      10.657  -4.569  57.401  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 16
+REMARK VINA RESULT:      -5.8      4.174      7.245
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       6.616   3.506  55.627  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       5.479   2.723  55.876  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       5.571   1.548  56.631  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       7.857   3.125  56.134  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       7.930   1.953  56.869  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       6.807   1.156  57.121  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.111   0.032  57.923  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       9.117   1.357  57.541  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       8.584  -0.055  57.832  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       6.323  -1.186  57.688  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       7.185  -2.297  57.040  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       7.132  -3.598  57.745  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       7.555  -4.702  56.882  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       7.979  -3.550  58.940  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 17
+REMARK VINA RESULT:      -5.8      5.597      8.708
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       7.182   1.904  57.253  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       8.510   1.506  57.465  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       8.843   0.149  57.556  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       6.173   0.952  57.127  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       6.521  -0.385  57.232  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       7.839  -0.801  57.450  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.963  -2.209  57.483  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       5.643  -1.580  57.098  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       6.569  -2.662  57.674  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       9.006  -2.765  58.357  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       8.671  -4.217  58.777  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       9.533  -5.246  58.154  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       8.814  -6.014  57.136  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1      10.711  -4.613  57.557  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 18
+REMARK VINA RESULT:      -5.7      6.947      8.628
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       9.353  -2.145  54.906  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       8.781  -1.195  55.766  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       8.639  -1.462  57.132  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       9.792  -3.370  55.403  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       9.632  -3.620  56.757  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       9.057  -2.687  57.628  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       9.032  -3.142  58.966  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1      10.048  -4.824  57.529  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       9.263  -4.596  58.829  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       7.913  -2.687  59.803  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       6.730  -3.684  59.750  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       5.570  -3.211  58.963  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       5.442  -1.753  59.001  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       5.695  -3.660  57.574  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 19
+REMARK VINA RESULT:      -5.7      5.321      8.674
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       6.106   0.955  56.335  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       6.237   0.486  57.650  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       7.123  -0.554  57.954  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       6.861   0.391  55.309  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       7.724  -0.646  55.627  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       7.862  -1.130  56.933  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       8.825  -2.161  57.027  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       8.655  -1.380  54.727  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       9.004  -2.581  55.621  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       8.593  -3.198  58.042  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       7.950  -4.461  57.420  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       8.769  -5.687  57.547  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       8.804  -6.450  56.298  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1      10.133  -5.335  57.951  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL
+MODEL 20
+REMARK VINA RESULT:      -5.6      4.652      6.647
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_7  and  C_10 
+REMARK    2  A    between atoms: C_10  and  C_11 
+REMARK    3  A    between atoms: C_11  and  N_12 
+ROOT
+HETATM    1  C   MOL     1       9.102  -4.998  56.414  1.00  0.00     0.001 A 
+HETATM    2  C   MOL     1       7.905  -4.976  57.144  1.00  0.00     0.002 A 
+HETATM    3  C   MOL     1       7.179  -3.788  57.291  1.00  0.00     0.024 A 
+HETATM    4  C   MOL     1       9.586  -3.834  55.820  1.00  0.00     0.009 A 
+HETATM    5  C   MOL     1       8.860  -2.665  55.987  1.00  0.00    -0.036 A 
+HETATM    6  C   MOL     1       7.666  -2.624  56.718  1.00  0.00     0.017 A 
+HETATM    7  N   MOL     1       7.080  -1.338  56.722  1.00  0.00    -0.281 NA
+HETATM    8  C   MOL     1       9.143  -1.315  55.429  1.00  0.00     0.055 C 
+HETATM    9  C   MOL     1       8.188  -0.464  56.281  1.00  0.00     0.100 C 
+ENDROOT
+BRANCH   7  10
+HETATM   10  C   MOL     1       6.323  -0.954  57.921  1.00  0.00     0.126 C 
+BRANCH  10  11
+HETATM   11  C   MOL     1       5.065  -0.131  57.553  1.00  0.00     0.286 C 
+BRANCH  11  12
+HETATM   12  N   MOL     1       5.078   1.261  58.056  1.00  0.00     0.081 N 
+HETATM   13  C   MOL     1       5.368   2.222  56.991  1.00  0.00     0.309 C 
+HETATM   14  C   MOL     1       3.789   1.579  58.675  1.00  0.00     0.309 C 
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   7  10
+TORSDOF 3
+ENDMDL

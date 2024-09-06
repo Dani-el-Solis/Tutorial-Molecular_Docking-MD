@@ -1,0 +1,18 @@
+receptor = protein.pdbqt
+ligand = ligand.pdbqt
+
+out = out.pdbqt
+
+center_x = 8.6
+center_y = 1.1
+center_z = 51.1
+
+size_x = 60
+size_y = 60
+size_z = 60
+
+num_modes = 50
+
+exhaustiveness = 32
+
+cpu = 16

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ante-MMPBSA.py -p system.parm7 -c complex.parm7 -r receptor.parm7 -l lig.parm7 -s :WAT,Cl-,Na+ -n :MOL --radii mbondi2

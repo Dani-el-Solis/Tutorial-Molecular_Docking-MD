@@ -1,0 +1,5 @@
+parm system.parm7
+trajin new.crd
+nativecontacts :MOL&!@H= @1-8486&!@H= byresidue resout residue.out distance 7.0 savenonnative
+go
+exit
